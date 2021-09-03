@@ -7,9 +7,9 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            List<string> Sarasas = new List<string>();
+            string[] Sarasas = new string[100];
 
-            for (int i = 0; i < Sarasas.Count; i++)
+            for (int i = 0; i < Sarasas.Length; i++)
             {
                 Console.WriteLine(Sarasas[i]);
             }
