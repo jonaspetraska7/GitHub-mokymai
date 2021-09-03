@@ -1,19 +1,12 @@
 ﻿using System;
-using System.Collections.Generic;
+using Syssdfsdftem.Collections.Generic;
 
 namespace ConsoleApp1
 {
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            List<string> Sarasas = new List<string>();
-
-            for (int i = 0; i < Sarasas.Count; i++)
-            {
-                Console.WriteLine(Sarasas[i]);
-            }
-
-        }
-    }
+    cst<sdfsdf>();
+    sdf
+            foras (int i = 0; i < Sarasasdfsdfs.Count; i++)
+            {sdfs
+        sdfsdfsdf
+    }sdf
 }
